@@ -1,19 +1,14 @@
+Company: CODETECH IT SOLUTION
 
+Name: GOPALSAMY S
 
+INTERN ID: CT12JHY
 
+Domain: ARTIFICIAL INTELLIAGENCE
 
+Duration: 8 Weeks
 
-
-
-
-
-
-
-
-
-
-
-
+Mentor: NEELA SANTOSH
 
 
 # PyTorch VGG19 Feature Extraction and Loss Modules

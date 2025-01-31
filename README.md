@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PyTorch VGG19 Feature Extraction and Loss Modules
 
 This project contains implementations of a VGG19 feature extractor and custom loss modules for content and style loss using PyTorch.
